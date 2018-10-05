@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/cloudever/create-my-app/compare/@app/app@0.2.0...@app/app@0.3.0) (2018-10-05)
+
+
+### Features
+
+* impovements ([e532a8d](https://github.com/cloudever/create-my-app/commit/e532a8d))
+
+
+
+
+
 # [0.2.0](https://github.com/cloudever/relernapp/compare/@app/app@0.1.0...@app/app@0.2.0) (2018-10-05)
 
 
