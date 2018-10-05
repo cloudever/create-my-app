@@ -31,9 +31,6 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.9"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": "cloudever/create-my-app",
   "author": "@cloudever",
   "license": "See license in LICENSE"
