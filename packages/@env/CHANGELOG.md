@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2018-10-05)
+
+
+### Features
+
+* make impovements ([d1245e4](https://github.com/cloudever/relernapp/commit/d1245e4))
+
+
+
+
+
 # 0.1.0 (2018-10-05)
 
 
