@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "cloudever/relernapp",
+  "repository": "cloudever/create-my-app",
   "author": "@cloudever",
   "license": "See license in LICENSE"
 }

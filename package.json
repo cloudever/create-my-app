@@ -11,6 +11,10 @@
     "release": "lerna publish --no-push --skip-npm",
     "clear": "rimraf **/*.log"
   },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "rimraf": "^2.6.2"
+  },
   "devDependencies": {
     "@commitlint/cli": "^7.2.0",
     "@commitlint/config-angular": "^7.1.2",
@@ -35,8 +39,6 @@
       "@commitlint/config-angular"
     ]
   },
-  "dependencies": {
-    "cross-env": "^5.2.0",
-    "rimraf": "^2.6.2"
-  }
+  "repository": "cloudever/create-my-app",
+  "author": "@cloudever"
 }

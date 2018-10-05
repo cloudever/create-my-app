@@ -10,8 +10,7 @@
       "message": "ci: release",
       "conventionalCommits": true,
       "allowBranch": [
-        "master",
-        "develop"
+        "master"
       ]
     }
   }
