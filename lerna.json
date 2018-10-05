@@ -8,7 +8,7 @@
   "useWorkspaces": true,
   "command": {
     "publish": {
-      "message": "ci: release",
+      "message": "build: release",
       "conventionalCommits": true,
       "allowBranch": [
         "master"
