@@ -1,7 +1,6 @@
 {
   "name": "app",
   "private": true,
-  "version": "0.3.0",
   "workspaces": [
     "env",
     "packages/*"
@@ -11,7 +10,8 @@
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap && lerna link",
     "release": "lerna publish --no-push --skip-npm && rimraf env/CHANGELOG.md",
-    "clear": "rimraf **/*.log"
+    "clear": "rimraf **/*.log",
+    "init": "yarn clear && rimraf */**/CHANGELOG.md"
   },
   "dependencies": {
     "cross-env": "^5.2.0",
