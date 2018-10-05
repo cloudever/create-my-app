@@ -1,4 +1,14 @@
 {
   "name": "@scope/app",
-  "version": "0.0.0"
+  "description": "Description",
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "cloudever/relernapp",
+  "author": "@cloudever",
+  "license": "See license in LICENSE"
 }

@@ -1,0 +1,32 @@
+{
+  "name": "@scope/environment",
+  "description": "Development environment",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {
+    "@babel/runtime-corejs2": "^7.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "@babel/plugin-proposal-export-default-from": "^7.0.0",
+    "@babel/plugin-proposal-export-namespace-from": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-styled-components": "^1.8.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.18",
+    "react-hot-loader": "^4.3.11"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "cloudever/relernapp",
+  "author": "@cloudever",
+  "license": "See license in LICENSE"
+}
