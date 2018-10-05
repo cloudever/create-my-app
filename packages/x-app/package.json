@@ -1,10 +1,12 @@
 {
-  "name": "@scope/app",
+  "name": "@app/app",
   "description": "Description",
   "version": "0.0.0",
   "scripts": {},
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@app/environment": "*"
+  },
   "publishConfig": {
     "access": "public"
   },

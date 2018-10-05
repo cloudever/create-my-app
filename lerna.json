@@ -13,9 +13,6 @@
         "master",
         "develop"
       ]
-    },
-    "bootstrap": {
-      "hoist": true
     }
   }
 }

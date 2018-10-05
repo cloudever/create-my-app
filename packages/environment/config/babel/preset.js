@@ -1,3 +1,10 @@
+/**
+ * Customizable config. Do not use directly if possible
+ *
+ * @param {Object} api Babel API
+ * @param {Object} options Options for babel presets and plugins
+ */
+
 module.exports = (api, options = {}) => {
   const {
     ssr,
