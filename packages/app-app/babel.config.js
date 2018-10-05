@@ -1,0 +1,1 @@
+module.export = require.resolve('@scope/env/babel')

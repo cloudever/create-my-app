@@ -2,9 +2,12 @@
   "name": "@app/app",
   "description": "Description",
   "version": "0.1.0",
-  "scripts": {},
+  "scripts": {
+    "build": "webpack-cli",
+    "lint:js": "eslint --fix --ext .js,.json ./src"
+  },
   "devDependencies": {
-    "@app/environment": "^0.1.0"
+    "@app/env": "^0.1.0"
   },
   "publishConfig": {
     "access": "public"

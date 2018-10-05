@@ -5,9 +5,9 @@
     "packages/*"
   ],
   "scripts": {
-    "lerna": "lerna",
-    "bootstrap": "lerna bootstrap",
     "ci": "cross-env NODE_ENV=production CI=true yarn build && yarn release --yes",
+    "lerna": "lerna",
+    "bootstrap": "lerna bootstrap && lerna link",
     "release": "lerna publish --no-push --skip-npm",
     "clear": "rimraf **/*.log"
   },
