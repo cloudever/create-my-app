@@ -1,6 +1,7 @@
 {
   "name": "app",
   "private": true,
+  "version": "0.3.0",
   "workspaces": [
     "env",
     "packages/*"
