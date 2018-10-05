@@ -2,7 +2,7 @@
   "name": "@app/env",
   "description": "Development environment",
   "private": true,
-  "version": "0.3.0",
+  "version": "0.3.1",
   "bin": {
     "webpack-cli": "node_modules/.bin/webpack-cli",
     "webpack-dev-server": "node_modules/.bin/webpack-dev-server",
