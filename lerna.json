@@ -1,0 +1,21 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "message": "ci: release",
+      "conventionalCommits": true,
+      "allowBranch": [
+        "master",
+        "develop"
+      ]
+    },
+    "bootstrap": {
+      "hoist": true
+    }
+  }
+}
